@@ -1,0 +1,10 @@
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\bin\Debug\cs_tictactoe.exe.config
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\bin\Debug\cs_tictactoe.exe
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\bin\Debug\cs_tictactoe.pdb
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\obj\Debug\cs_tictactoe.csproj.AssemblyReference.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\obj\Debug\cs_tictactoe.tictactoe.resources
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\obj\Debug\cs_tictactoe.Properties.Resources.resources
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\obj\Debug\cs_tictactoe.csproj.GenerateResource.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\obj\Debug\cs_tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\obj\Debug\cs_tictactoe.exe
+C:\Users\Rom\Desktop\5TH YR 1ST SEM FILES\OOP\tic-tac-toe\cs_tictactoe\cs_tictactoe\obj\Debug\cs_tictactoe.pdb
