@@ -305,7 +305,9 @@ namespace cs_tictactoe
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.MaximizeBox = false;
             this.Name = "tictactoe";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tic Tac Toe";
             this.Load += new System.EventHandler(this.tictactoe_Load);
             this.panel1.ResumeLayout(false);
